@@ -1,0 +1,4 @@
+Nome: Ana Ribeiro
+Cargo pretendido: Engenheiro de Dados
+Experiência: 3 anos
+Skills: Python, SQL, DuckDB, ETL, Docker
